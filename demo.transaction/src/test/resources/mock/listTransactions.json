@@ -1,0 +1,6 @@
+[
+  {"id": "1","type": "DEPOSIT","amount": 150.0},
+  {"id": "2","type": "WITHDRAW","amount": 50.0},
+  {"id": "3","type": "DEPOSIT","amount": 200.0},
+  {"id": "4","type": "WITHDRAW","amount": 300.0}
+]
